@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">30_days_of_movement</string>
+    <string name="movement_downward_dog">Downward Dog</string>
+    <string name="movement_hip_release">Hip Release</string>
+    <string name="movement_squat_reaches">Squat Reaches</string>
+    <string name="movement_crunches">Crunches</string>
+    <string name="movement_hip_switches">Hip Switches</string>
+    <string name="movement_hip_flexor_stretch">Hip Flexor Stretch</string>
+    <string name="movement_wall_sit">Wall Sit</string>
+    <string name="movement_glute_medius_side_raise">Glute Medius Side Raise</string>
+    <string name="movement_glute_bridge">Glute Bridge</string>
+    <string name="movement_prone_ati_swimmer">Prone A-T-I Swimmer</string>
+    <string name="movement_bridge_reach_over">Bridge Reach Over</string>
+    <string name="movement_vacuum">Vacuum</string>
+    <string name="movement_stomach_vacuums">Stomach Vacuums</string>
+    <string name="movement_calf_raises">Calf Raises</string>
+    <string name="movement_sumo_walks">Sumo Walks</string>
+    <string name="movement_side_sumo_walks">Side Sumo Walks</string>
+    <string name="movement_squats">Squats</string>
+    <string name="movement_push_ups">Push-ups</string>
+    <string name="movement_sprinter_stretch">Sprinter Stretch</string>
+    <string name="movement_lunge">Lunge</string>
+    <string name="movement_bear_sit">Bear Sit</string>
+    <string name="movement_dead_bug">Dead Bug</string>"
+    <string name="movement_hip_car">Hip Controlled Articular Rotation (CAR)</string>
+    <string name="movement_shoulder_car">Shoulder Controlled Articular Rotation (CAR)</string>
+    <string name="movement_kneeling_overhead_stretch">Kneeling Overhead Stretch</string>
+    <string name="movement_shoulder_taps">Shoulder Taps</string>
+    <string name="movement_jefferson_curl">Jefferson Curl</string>
+    <string name="movement_hamstring_stretch">Hamstring Stretch</string>
+    <string name="movement_kickbacks">Kickbacks</string>
+    <string name="movement_single_leg_rdl">Single-Leg Romanian Deadlift</string>
 </resources>

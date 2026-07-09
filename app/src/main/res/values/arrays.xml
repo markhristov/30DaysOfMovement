@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="downward_dog_cues">
+        <item>Press the floor away with your hands.</item>
+        <item>Lengthen your spine.</item>
+        <item>Keep your heels reaching toward the floor.</item>
+    </string-array>
+
+    <string-array name="hip_release_cues">
+        <item>Breathe deeply and relax into the stretch.</item>
+        <item>Keep your pelvis level.</item>
+        <item>Move only within a comfortable range.</item>
+    </string-array>
+
+    <string-array name="squat_reaches_cues">
+        <item>Keep your chest lifted.</item>
+        <item>Reach overhead as you stand.</item>
+        <item>Drive through your whole foot.</item>
+    </string-array>
+
+    <string-array name="crunches_cues">
+        <item>Brace your core.</item>
+        <item>Lift with your abs, not your neck.</item>
+        <item>Lower under control.</item>
+    </string-array>
+
+    <string-array name="hip_switches_cues">
+        <item>Rotate from the hips.</item>
+        <item>Keep your chest tall.</item>
+        <item>Move smoothly between sides.</item>
+    </string-array>
+
+    <string-array name="hip_flexor_stretch_cues">
+        <item>Tuck your pelvis slightly.</item>
+        <item>Squeeze the glute of the kneeling leg.</item>
+        <item>Keep your torso upright.</item>
+    </string-array>
+
+    <string-array name="wall_sit_cues">
+        <item>Keep your back against the wall.</item>
+        <item>Make a 90° angle with your knees.</item>
+        <item>Keep your weight on your heels.</item>
+    </string-array>
+
+    <string-array name="glute_medius_side_raise_cues">
+        <item>Keep your hips stacked.</item>
+        <item>Lift with your glute, not your lower back.</item>
+        <item>Move slowly.</item>
+    </string-array>
+
+    <string-array name="glute_bridge_cues">
+        <item>Drive through your heels.</item>
+        <item>Squeeze your glutes at the top.</item>
+        <item>Don\'t overarch your lower back.</item>
+    </string-array>
+
+    <string-array name="prone_ati_swimmer_cues">
+        <item>Keep your forehead relaxed.</item>
+        <item>Reach long through your arms.</item>
+        <item>Squeeze your shoulder blades gently.</item>
+    </string-array>
+
+    <string-array name="bridge_reach_over_cues">
+        <item>Keep your hips lifted.</item>
+        <item>Reach overhead with control.</item>
+        <item>Maintain a stable core.</item>
+    </string-array>
+
+    <string-array name="vacuum_cues">
+        <item>Exhale completely.</item>
+        <item>Draw your belly button toward your spine.</item>
+        <item>Hold without holding your breath.</item>
+    </string-array>
+
+    <string-array name="stomach_vacuums_cues">
+        <item>Stand tall.</item>
+        <item>Pull your abdomen inward.</item>
+        <item>Maintain slow breathing.</item>
+    </string-array>
+
+    <string-array name="calf_raises_cues">
+        <item>Lift as high as possible.</item>
+        <item>Pause briefly at the top.</item>
+        <item>Lower slowly.</item>
+    </string-array>
+
+    <string-array name="sumo_walks_cues">
+        <item>Stay in a partial squat.</item>
+        <item>Keep your knees pushed outward.</item>
+        <item>Take controlled steps.</item>
+    </string-array>
+
+    <string-array name="side_sumo_walks_cues">
+        <item>Keep tension in your legs.</item>
+        <item>Stay low throughout.</item>
+        <item>Step without bringing your feet together.</item>
+    </string-array>
+
+    <string-array name="squats_cues">
+        <item>Brace your core.</item>
+        <item>Push your knees out.</item>
+        <item>Drive through your whole foot.</item>
+    </string-array>
+
+    <string-array name="push_ups_cues">
+        <item>Keep a straight body line.</item>
+        <item>Lower your chest between your hands.</item>
+        <item>Press the floor away.</item>
+    </string-array>
+
+    <string-array name="sprinter_stretch_cues">
+        <item>Keep your back leg long.</item>
+        <item>Push your hips forward gently.</item>
+        <item>Keep your chest open.</item>
+    </string-array>
+
+    <string-array name="lunge_cues">
+        <item>Step long enough to keep both knees comfortable.</item>
+        <item>Keep your torso upright.</item>
+        <item>Push through your front heel.</item>
+    </string-array>
+
+    <string-array name="bear_sit_cues">
+        <item>Keep your chest tall.</item>
+        <item>Rotate from your hips.</item>
+        <item>Use your hands only if needed.</item>
+    </string-array>
+
+    <string-array name="dead_bug_cues">
+        <item>Keep your lower back pressed into the floor.</item>
+        <item>Brace your core before moving.</item>
+        <item>Move opposite arm and leg slowly under control.</item>
+    </string-array>
+
+    <string-array name="hip_car_cues">
+        <item>Move as slowly as possible.</item>
+        <item>Keep your pelvis still.</item>
+        <item>Draw the largest pain-free circle.</item>
+    </string-array>
+
+    <string-array name="shoulder_car_cues">
+        <item>Keep your ribs down.</item>
+        <item>Move only your shoulder.</item>
+        <item>Make a slow controlled circle.</item>
+    </string-array>
+
+    <string-array name="kneeling_overhead_stretch_cues">
+        <item>Reach upward.</item>
+        <item>Keep your ribs tucked.</item>
+        <item>Breathe into the stretch.</item>
+    </string-array>
+
+    <string-array name="shoulder_taps_cues">
+        <item>Keep your hips steady.</item>
+        <item>Brace your core.</item>
+        <item>Move slowly without swaying.</item>
+    </string-array>
+
+    <string-array name="jefferson_curl_cues">
+        <item>Roll down one vertebra at a time.</item>
+        <item>Use light weight or bodyweight.</item>
+        <item>Move slowly through the full range.</item>
+    </string-array>
+
+    <string-array name="hamstring_stretch_cues">
+        <item>Keep your back straight.</item>
+        <item>Hinge from your hips.</item>
+        <item>Don\'t bounce.</item>
+    </string-array>
+
+    <string-array name="kickbacks_cues">
+        <item>Keep your hips square.</item>
+        <item>Squeeze your glute at the top.</item>
+        <item>Don\'t arch your lower back.</item>
+    </string-array>
+
+    <string-array name="single_leg_rdl_cues">
+        <item>Keep a slight bend in your standing knee.</item>
+        <item>Hinge at the hips while keeping your back flat.</item>
+        <item>Keep your hips level throughout the movement.</item>
+    </string-array>
+
+</resources>
