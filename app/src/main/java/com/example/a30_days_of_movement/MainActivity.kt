@@ -1,12 +1,10 @@
 package com.example.a30_days_of_movement
 
 import android.os.Bundle
-import android.text.method.MovementMethod
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
@@ -16,10 +14,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.a30_days_of_movement.model.Movement
 import com.example.a30_days_of_movement.model.MovementsRepository
 import com.example.a30_days_of_movement.ui.theme.A30DaysOfMovementTheme
-import com.example.a30_days_of_movement.ui.theme._30_days_of_movementTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -42,7 +38,7 @@ fun MovementTopBar(modifier: Modifier = Modifier) {
                 style = MaterialTheme.typography.displaySmall,
             )
         },
-        modifier = Modifier
+        modifier = modifier
     )
 }
 
@@ -60,14 +56,12 @@ fun MovementApp() {
         topBar = {
             MovementTopBar()
         }) { padding ->
+
+        val movements = MovementsRepository.movements
             MovementList(
-                movements = MovementsRepository.movements,
-                modifier = Modifier.padding(padding),
+                movements = movements,
+                contentPadding = padding,
             )
         }
 }
 
-@Composable
-fun MovementList(movements: List<Movement>, modifier: Modifier = Modifier) {
-    TODO("Not yet implemented")
-}

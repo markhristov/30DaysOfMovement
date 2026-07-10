@@ -5,7 +5,7 @@ import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 
 data class Movement(
-    @StringRes val movementName: Int,
-    @ArrayRes val movementCues: Int,
-    @DrawableRes val movementImage: Int,
+    @StringRes val name: Int,
+    @ArrayRes val cues: Int,
+    @DrawableRes val image: Int,
 )
