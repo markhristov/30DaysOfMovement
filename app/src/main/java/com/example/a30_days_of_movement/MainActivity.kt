@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            A30DaysOfMovementTheme {
+            A30DaysOfMovementTheme(darkTheme = false, dynamicColor = false) {
                 MovementApp()
             }
         }
@@ -45,7 +45,7 @@ fun MovementTopBar(modifier: Modifier = Modifier) {
 @Preview(showBackground = true)
 @Composable
 fun MovementAppPreview() {
-    A30DaysOfMovementTheme {
+    A30DaysOfMovementTheme(darkTheme = true, dynamicColor = false) {
         MovementApp()
     }
 }
